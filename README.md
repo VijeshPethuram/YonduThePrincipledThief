@@ -1,4 +1,4 @@
-# YonduThePrincipledThief
+# Yondu The Principled Thief
 Yondu - The Principled Thief Problem (Solved using Linked List in C)
 
 Question:
