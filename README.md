@@ -1,5 +1,5 @@
 # YonduThePrincipledThief
-Yondu - The Principled Thief Problem (Solved using Linked List)
+Yondu - The Principled Thief Problem (Solved using Linked List in C)
 
 Question:
 Mr.Yondu is trying to steal some code from the Code Bank Of
@@ -25,3 +25,6 @@ Input format
 * The first line contains 2 integers, they are Mr. Yondu’s key value and the Lock's key value.
 
 + The second line contains N indicating the number of other keys Mr. Yondu has.
+
+Note:
+Though this program is written in C language, it is complied using C++ compiler. So you don't need to worry about the file extension. 
